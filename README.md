@@ -92,8 +92,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pentagatlatulasi26 &show_icons=true&theme=dark&hide_border=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pentagatlatulasi26 &layout=compact&theme=dark&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pentagatlatulasi26&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pentagatlatulasi26&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 <p align="center">
