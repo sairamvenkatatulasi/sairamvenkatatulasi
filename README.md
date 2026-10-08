@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Tulasi</h1>
+<h1 align="center">Hi 👋 I'm Sai Ram Venkata Tulasi</h1>
 
 <h3 align="center">Software Engineer | Full-Stack Developer | </h3>
 
@@ -48,7 +48,6 @@
 
 ![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,Sightengine,Tesseract.js)
 
-> Keep only the technologies you genuinely know. Remove the rest.
 
 ---
 
@@ -92,12 +91,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pentagatlatulasi26&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pentagatlatulasi26&layout=compact&theme=dark&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sairamvenkatatulasi&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairamvenkatatulasi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pentagatlatulasi26&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=sairamvenkatatulasi&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sairamvenkatatulasi&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
